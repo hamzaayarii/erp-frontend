@@ -1,0 +1,163 @@
+{
+  "programs": [
+    {
+      "id": "P1",
+      "project": "Chakra Soft UI Version",
+      "members": [
+        { "name": "AM", "gender": "female" },
+        { "name": "JD", "gender": "male" },
+        { "name": "SK", "gender": "female" }
+      ],
+      "status": "In Progress",
+      "progress": 80,
+      "subPrograms": "Pg-01",
+      "subProducts": "DW09",
+      "subProjects": "SP-01",
+      "estimatedStartDate": "2024-01-15",
+      "startDate": "2024-01-20",
+      "estimatedEndDate": "2024-06-15",
+      "endDate": "2024-06-20",
+      "estimatedDuration": "5 months",
+      "actualDuration": "5.2 months",
+      "estimatedBudget": "$50,000",
+      "budget": "$52,000",
+      "domain": ["UI/UX", "Frontend"]
+    },
+    {
+      "id": "P2",
+      "project": "Mobile App Development",
+      "members": [
+        { "name": "RK", "gender": "male" },
+        { "name": "LM", "gender": "female" },
+        { "name": "TN", "gender": "male" }
+      ],
+      "status": "In Progress",
+      "progress": 45,
+      "subPrograms": "Pg-02",
+      "subProducts": "DW10",
+      "subProjects": "SP-02",
+      "estimatedStartDate": "2024-02-01",
+      "startDate": "2024-02-05",
+      "estimatedEndDate": "2024-08-01",
+      "endDate": "2024-08-10",
+      "estimatedDuration": "6 months",
+      "actualDuration": "6.2 months",
+      "estimatedBudget": "$75,000",
+      "budget": "$78,000",
+      "domain": ["Mobile", "Backend"]
+    },
+    {
+      "id": "P3",
+      "project": "Data Analytics Platform",
+      "members": [
+        { "name": "PQ", "gender": "female" },
+        { "name": "RS", "gender": "male" },
+        { "name": "UV", "gender": "female" }
+      ],
+      "status": "Not Started",
+      "progress": 0,
+      "subPrograms": "Pg-03",
+      "subProducts": "DW11",
+      "subProjects": "SP-03",
+      "estimatedStartDate": "2024-03-01",
+      "startDate": "2024-03-01",
+      "estimatedEndDate": "2024-09-01",
+      "endDate": "2024-09-01",
+      "estimatedDuration": "6 months",
+      "actualDuration": "6 months",
+      "estimatedBudget": "$90,000",
+      "budget": "$90,000",
+      "domain": ["Analytics", "Data Science"]
+    },
+    {
+      "id": "P4",
+      "project": "E-commerce Platform",
+      "members": [
+        { "name": "WX", "gender": "male" },
+        { "name": "YZ", "gender": "female" },
+        { "name": "AB", "gender": "male" }
+      ],
+      "status": "Suspended",
+      "progress": 60,
+      "subPrograms": "Pg-04",
+      "subProducts": "DW12",
+      "subProjects": "SP-04",
+      "estimatedStartDate": "2024-01-10",
+      "startDate": "2024-01-15",
+      "estimatedEndDate": "2024-07-10",
+      "endDate": "2024-07-20",
+      "estimatedDuration": "6 months",
+      "actualDuration": "6.3 months",
+      "estimatedBudget": "$85,000",
+      "budget": "$88,000",
+      "domain": ["E-commerce", "Full Stack"]
+    },
+    {
+      "id": "P5",
+      "project": "AI Chatbot System",
+      "members": [
+        { "name": "CD", "gender": "female" },
+        { "name": "EF", "gender": "male" },
+        { "name": "GH", "gender": "female" }
+      ],
+      "status": "Suspended",
+      "progress": 30,
+      "subPrograms": "Pg-05",
+      "subProducts": "DW13",
+      "subProjects": "SP-05",
+      "estimatedStartDate": "2024-02-15",
+      "startDate": "2024-02-20",
+      "estimatedEndDate": "2024-08-15",
+      "endDate": "2024-08-25",
+      "estimatedDuration": "6 months",
+      "actualDuration": "6.2 months",
+      "estimatedBudget": "$70,000",
+      "budget": "$72,000",
+      "domain": ["AI", "Machine Learning"]
+    },
+    {
+      "id": "P6",
+      "project": "Cloud Infrastructure",
+      "members": [
+        { "name": "IJ", "gender": "male" },
+        { "name": "KL", "gender": "female" }
+      ],
+      "status": "Finished",
+      "progress": 100,
+      "subPrograms": "Pg-06",
+      "subProducts": "DW14",
+      "subProjects": "SP-06",
+      "estimatedStartDate": "2023-10-01",
+      "startDate": "2023-10-05",
+      "estimatedEndDate": "2024-02-01",
+      "endDate": "2024-01-30",
+      "estimatedDuration": "4 months",
+      "actualDuration": "3.8 months",
+      "estimatedBudget": "$60,000",
+      "budget": "$58,000",
+      "domain": ["Cloud", "DevOps"]
+    },
+    {
+      "id": "P7",
+      "project": "Security Audit Tool",
+      "members": [
+        { "name": "MN", "gender": "male" },
+        { "name": "OP", "gender": "female" }
+      ],
+      "status": "Cancelled",
+      "progress": 25,
+      "subPrograms": "Pg-07",
+      "subProducts": "DW15",
+      "subProjects": "SP-07",
+      "estimatedStartDate": "2023-12-01",
+      "startDate": "2023-12-05",
+      "estimatedEndDate": "2024-04-01",
+      "endDate": "2024-04-10",
+      "estimatedDuration": "4 months",
+      "actualDuration": "4.3 months",
+      "estimatedBudget": "$45,000",
+      "budget": "$47,000",
+      "domain": ["Security", "Audit"]
+    }
+  ]
+}

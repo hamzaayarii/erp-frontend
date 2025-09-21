@@ -1,0 +1,84 @@
+{
+  "interns": [
+    {
+      "intern": "John Smith",
+      "supervisor": "Dr. Sarah Johnson",
+      "topics": ["Web Development", "React"],
+      "accountStatus": "Online",
+      "internshipStatus": "In Progress",
+      "startDate": "15/01/2024",
+      "endDate": "15/07/2024",
+      "periodAchieved": 3
+    },
+    {
+      "intern": "Emily Davis",
+      "supervisor": "Prof. Michael Brown",
+      "topics": ["Machine Learning", "Python"],
+      "accountStatus": "Offline",
+      "internshipStatus": "In Extension",
+      "startDate": "01/12/2023",
+      "endDate": "01/08/2024",
+      "periodAchieved": 4
+    },
+    {
+      "intern": "Alex Wilson",
+      "supervisor": "Dr. Lisa Chen",
+      "topics": ["Mobile Development", "Flutter"],
+      "accountStatus": "Online",
+      "internshipStatus": "Suspended",
+      "startDate": "10/02/2024",
+      "endDate": "10/08/2024",
+      "periodAchieved": 2
+    },
+    {
+      "intern": "Maria Garcia",
+      "supervisor": "Dr. James Taylor",
+      "topics": ["Data Science", "Analytics"],
+      "accountStatus": "Online",
+      "internshipStatus": "In Progress",
+      "startDate": "20/01/2024",
+      "endDate": "20/07/2024",
+      "periodAchieved": 3
+    },
+    {
+      "intern": "David Lee",
+      "supervisor": "Prof. Anna White",
+      "topics": ["DevOps", "Cloud Computing"],
+      "accountStatus": "Offline",
+      "internshipStatus": "In Extension",
+      "startDate": "05/11/2023",
+      "endDate": "05/09/2024",
+      "periodAchieved": 5
+    },
+    {
+      "intern": "Sophie Martin",
+      "supervisor": "Dr. Robert Kim",
+      "topics": ["UI/UX Design", "Figma"],
+      "accountStatus": "Online",
+      "internshipStatus": "In Progress",
+      "startDate": "12/02/2024",
+      "endDate": "12/08/2024",
+      "periodAchieved": 2
+    },
+    {
+      "intern": "Chris Anderson",
+      "supervisor": "Prof. Jennifer Liu",
+      "topics": ["Cybersecurity", "Penetration Testing"],
+      "accountStatus": "Online",
+      "internshipStatus": "Finished",
+      "startDate": "01/09/2023",
+      "endDate": "01/03/2024",
+      "periodAchieved": 6
+    },
+    {
+      "intern": "Rachel Thompson",
+      "supervisor": "Dr. Mark Davis",
+      "topics": ["Blockchain", "Smart Contracts"],
+      "accountStatus": "Offline",
+      "internshipStatus": "Finished",
+      "startDate": "15/08/2023",
+      "endDate": "15/02/2024",
+      "periodAchieved": 6
+    }
+  ]
+}

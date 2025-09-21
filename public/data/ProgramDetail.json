@@ -1,0 +1,92 @@
+[
+    {
+      "id": "P1",
+      "project": "Web Security Module",
+      "members": [
+        { "gender": "female", "initials": "AJ" },
+        { "gender": "male", "initials": "BS" },
+        { "gender": "female", "initials": "DW" }
+      ],
+      "status": "In Progress",
+      "progress": 60,
+      "estimatedStartDate": "01 Aug, 2025",
+      "startDate": "01 Aug, 2025",
+      "estimatedEndDate": "01 Dec, 2025",
+      "estimatedBudget": "$10,000",
+      "budget": "$10,000",
+      "domain": ["Security", "Web Applications"],
+      "technology": ["React", "Node.js", "MongoDB"]
+    },
+    {
+      "id": "P2",
+      "project": "Backend Optimization",
+      "members": [
+        { "gender": "male", "initials": "FM" },
+        { "gender": "female", "initials": "GL" },
+        { "gender": "male", "initials": "HG" }
+      ],
+      "status": "In Progress",
+      "progress": 45,
+      "estimatedStartDate": "01 Aug, 2025",
+      "startDate": "01 Aug, 2025",
+      "estimatedEndDate": "01 Dec, 2025",
+      "estimatedBudget": "$12,000",
+      "budget": "$12,000",
+      "domain": ["Backend", "API"],
+      "technology": ["Express", "MongoDB", "Docker"]
+    },
+    {
+      "id": "P3",
+      "project": "UI Design Update",
+      "members": [
+        { "gender": "female", "initials": "IB" },
+        { "gender": "male", "initials": "JB" },
+        { "gender": "female", "initials": "ED" }
+      ],
+      "status": "Not Started",
+      "progress": 0,
+      "estimatedStartDate": "15 Aug, 2025",
+      "startDate": "15 Aug, 2025",
+      "estimatedEndDate": "15 Dec, 2025",
+      "estimatedBudget": "$8,000",
+      "budget": "$8,000",
+      "domain": ["UI/UX", "Design"],
+      "technology": ["Figma", "React", "TailwindCSS"]
+    },
+    {
+      "id": "P4",
+      "project": "Testing Framework",
+      "members": [
+        { "gender": "male", "initials": "CB" },
+        { "gender": "female", "initials": "GL" },
+        { "gender": "male", "initials": "FM" }
+      ],
+      "status": "Suspended",
+      "progress": 60,
+      "estimatedStartDate": "01 Aug, 2025",
+      "startDate": "01 Aug, 2025",
+      "estimatedEndDate": "01 Dec, 2025",
+      "estimatedBudget": "$9,000",
+      "budget": "$9,000",
+      "domain": ["QA", "Automation"],
+      "technology": ["Jest", "Cypress", "Selenium"]
+    },
+    {
+      "id": "P5",
+      "project": "Marketing Campaign",
+      "members": [
+        { "gender": "female", "initials": "DW" },
+        { "gender": "male", "initials": "JB" },
+        { "gender": "female", "initials": "AJ" }
+      ],
+      "status": "Suspended",
+      "progress": 60,
+      "estimatedStartDate": "01 Aug, 2025",
+      "startDate": "01 Aug, 2025",
+      "estimatedEndDate": "01 Dec, 2025",
+      "estimatedBudget": "$11,000",
+      "budget": "$11,000",
+      "domain": ["Marketing", "SEO"],
+      "technology": ["Google Analytics", "HubSpot"]
+    }
+  ]

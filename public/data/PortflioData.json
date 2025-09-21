@@ -1,0 +1,409 @@
+[
+  {
+    "id": "pr-01",
+    "name": "Digital Transformation Initiative",
+    "type": "program",
+    "children": [
+      {
+        "id": "pr-02",
+        "name": "AI & Machine Learning Program",
+        "type": "program",
+        "children": [
+          {
+            "id": "pr-03",
+            "name": "Data Science Excellence Program",
+            "type": "program",
+            "children": [
+              {
+                "id": "dw01",
+                "name": "Advanced Analytics Platform",
+                "type": "product",
+                "children": [
+                  {
+                    "id": "dw01-sub1",
+                    "name": "Core Analytics Engine",
+                    "type": "product",
+                    "children": [
+                      {
+                        "id": "pj-01",
+                        "name": "Real-time Data Pipeline",
+                        "type": "project",
+                        "children": [
+                          {
+                            "id": "tp-01",
+                            "name": "Stream Processing Engine",
+                            "type": "topic"
+                          },
+                          {
+                            "id": "tp-02",
+                            "name": "Data Quality Monitoring",
+                            "type": "topic"
+                          },
+                          {
+                            "id": "tp-03",
+                            "name": "Performance Optimization",
+                            "type": "topic"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "pj-02",
+                        "name": "Predictive Analytics Dashboard",
+                        "type": "project",
+                        "children": [
+                          {
+                            "id": "tp-04",
+                            "name": "Machine Learning Models",
+                            "type": "topic"
+                          },
+                          {
+                            "id": "tp-05",
+                            "name": "Interactive Visualizations",
+                            "type": "topic"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "dw02",
+                "name": "Machine Learning Operations Suite",
+                "type": "product",
+                "children": [
+                  {
+                    "id": "pj-03",
+                    "name": "Model Training Pipeline",
+                    "type": "project",
+                    "children": [
+                      {
+                        "id": "tp-06",
+                        "name": "Automated Feature Engineering",
+                        "type": "topic"
+                      },
+                      {
+                        "id": "tp-07",
+                        "name": "Model Validation Framework",
+                        "type": "topic"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "pj-04",
+                    "name": "Model Deployment System",
+                    "type": "project",
+                    "children": [
+                      {
+                        "id": "tp-08",
+                        "name": "Container Orchestration",
+                        "type": "topic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "pr-04",
+        "name": "Cloud Infrastructure Program",
+        "type": "program",
+        "children": [
+          {
+            "id": "dw03",
+            "name": "Multi-Cloud Management Platform",
+            "type": "product",
+            "children": [
+              {
+                "id": "pj-05",
+                "name": "Infrastructure Automation",
+                "type": "project",
+                "children": [
+                  {
+                    "id": "tp-09",
+                    "name": "Terraform Modules",
+                    "type": "topic"
+                  },
+                  {
+                    "id": "tp-10",
+                    "name": "CI/CD Pipeline Integration",
+                    "type": "topic"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "dw04",
+            "name": "Security & Compliance Suite",
+            "type": "product",
+            "children": [
+              {
+                "id": "pj-06",
+                "name": "Zero Trust Architecture",
+                "type": "project",
+                "children": [
+                  {
+                    "id": "tp-11",
+                    "name": "Identity Management",
+                    "type": "topic"
+                  },
+                  {
+                    "id": "tp-12",
+                    "name": "Network Segmentation",
+                    "type": "topic"
+                  },
+                  {
+                    "id": "tp-13",
+                    "name": "Threat Detection",
+                    "type": "topic"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pr-05",
+    "name": "Customer Experience Excellence",
+    "type": "program",
+    "children": [
+      {
+        "id": "pr-06",
+        "name": "Omnichannel Platform Program",
+        "type": "program",
+        "children": [
+          {
+            "id": "dw05",
+            "name": "Customer Journey Analytics",
+            "type": "product",
+            "children": [
+              {
+                "id": "pj-07",
+                "name": "Behavioral Analytics Engine",
+                "type": "project",
+                "children": [
+                  {
+                    "id": "tp-14",
+                    "name": "Event Tracking System",
+                    "type": "topic"
+                  },
+                  {
+                    "id": "tp-15",
+                    "name": "Customer Segmentation",
+                    "type": "topic"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "dw06",
+            "name": "Personalization Engine",
+            "type": "product",
+            "children": [
+              {
+                "id": "pj-08",
+                "name": "Recommendation System",
+                "type": "project",
+                "children": [
+                  {
+                    "id": "tp-16",
+                    "name": "Collaborative Filtering",
+                    "type": "topic"
+                  },
+                  {
+                    "id": "tp-17",
+                    "name": "Content-Based Filtering",
+                    "type": "topic"
+                  },
+                  {
+                    "id": "tp-18",
+                    "name": "A/B Testing Framework",
+                    "type": "topic"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pr-07",
+    "name": "Enterprise Modernization",
+    "type": "program",
+    "children": [
+      {
+        "id": "dw07",
+        "name": "Legacy System Migration Suite",
+        "type": "product",
+        "children": [
+          {
+            "id": "pj-09",
+            "name": "Database Modernization",
+            "type": "project",
+            "children": [
+              {
+                "id": "tp-19",
+                "name": "Data Migration Tools",
+                "type": "topic"
+              },
+              {
+                "id": "tp-20",
+                "name": "Performance Tuning",
+                "type": "topic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "dw08",
+        "name": "Microservices Architecture Platform",
+        "type": "product",
+        "children": [
+          {
+            "id": "pj-10",
+            "name": "Service Mesh Implementation",
+            "type": "project",
+            "children": [
+              {
+                "id": "tp-21",
+                "name": "API Gateway Configuration",
+                "type": "topic"
+              },
+              {
+                "id": "tp-22",
+                "name": "Service Discovery",
+                "type": "topic"
+              }
+            ]
+          },
+          {
+            "id": "pj-11",
+            "name": "Distributed Monitoring",
+            "type": "project",
+            "children": [
+              {
+                "id": "tp-23",
+                "name": "Distributed Tracing",
+                "type": "topic"
+              },
+              {
+                "id": "tp-24",
+                "name": "Metrics Collection",
+                "type": "topic"
+              },
+              {
+                "id": "tp-25",
+                "name": "Log Aggregation",
+                "type": "topic"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pr-08",
+    "name": "Innovation & Research",
+    "type": "program",
+    "children": [
+      {
+        "id": "pr-09",
+        "name": "Emerging Technologies Program",
+        "type": "program",
+        "children": [
+          {
+            "id": "dw09",
+            "name": "Quantum Computing Research Platform",
+            "type": "product",
+            "children": [
+              {
+                "id": "pj-12",
+                "name": "Quantum Algorithm Development",
+                "type": "project",
+                "children": [
+                  {
+                    "id": "tp-26",
+                    "name": "Quantum Circuit Design",
+                    "type": "topic"
+                  },
+                  {
+                    "id": "tp-27",
+                    "name": "Error Correction Methods",
+                    "type": "topic"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "dw10",
+            "name": "Blockchain Integration Suite",
+            "type": "product",
+            "children": [
+              {
+                "id": "pj-13",
+                "name": "Smart Contract Platform",
+                "type": "project",
+                "children": [
+                  {
+                    "id": "tp-28",
+                    "name": "Contract Security Auditing",
+                    "type": "topic"
+                  },
+                  {
+                    "id": "tp-29",
+                    "name": "Gas Optimization",
+                    "type": "topic"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pr-10",
+    "name": "Sustainability & Green Tech",
+    "type": "program",
+    "children": [
+      {
+        "id": "dw11",
+        "name": "Carbon Footprint Management",
+        "type": "product",
+        "children": [
+          {
+            "id": "pj-14",
+            "name": "Environmental Impact Tracking",
+            "type": "project",
+            "children": [
+              {
+                "id": "tp-30",
+                "name": "Energy Consumption Monitoring",
+                "type": "topic"
+              },
+              {
+                "id": "tp-31",
+                "name": "Sustainability Reporting",
+                "type": "topic"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

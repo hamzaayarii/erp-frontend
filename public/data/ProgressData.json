@@ -1,0 +1,61 @@
+{
+    "progress": [
+      {
+        "id": 1,
+        "task": "Home page updated",
+        "project": "P1:S2",
+        "interns": [
+          { "name": "Ahmed", "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=40&h=40&fit=crop&crop=face" },
+          { "name": "Fatima", "avatar": "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=40&h=40&fit=crop&crop=face" },
+          { "name": "Omar", "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=40&h=40&fit=crop&crop=face" },
+          { "name": "Yasmine", "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=40&h=40&fit=crop&crop=face" },
+          { "name": "Karim", "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=40&h=40&fit=crop&crop=face" }
+        ],
+        "supervisor": "Mounir",
+        "progressPercentage": 60
+      },
+      {
+        "id": 2,
+        "task": "Home page updated",
+        "project": "P1:S2",
+        "interns": [
+          { "name": "Sara", "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=40&h=40&fit=crop&crop=face" },
+          { "name": "Ali", "avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=40&h=40&fit=crop&crop=face" },
+          { "name": "Nour", "avatar": "https://images.unsplash.com/photo-1544725176-7c40e5a71c5e?w=40&h=40&fit=crop&crop=face" },
+          { "name": "Mehdi", "avatar": "https://images.unsplash.com/photo-1552058544-f2b08422138a?w=40&h=40&fit=crop&crop=face" },
+          { "name": "Rim", "avatar": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=40&h=40&fit=crop&crop=face" }
+        ],
+        "supervisor": "Mounir",
+        "progressPercentage": 45
+      },
+      {
+        "id": 3,
+        "task": "Home page updated",
+        "project": "P1:S2",
+        "interns": [
+          { "name": "Youssef", "avatar": "https://images.unsplash.com/photo-1463453091185-61582044d556?w=40&h=40&fit=crop&crop=face" },
+          { "name": "Amina", "avatar": "https://images.unsplash.com/photo-1502323777036-f29e3972d82f?w=40&h=40&fit=crop&crop=face" },
+          { "name": "Sami", "avatar": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=40&h=40&fit=crop&crop=face" },
+          { "name": "Ines", "avatar": "https://images.unsplash.com/photo-1489424731084-a5d8b219a5bb?w=40&h=40&fit=crop&crop=face" },
+          { "name": "Rami", "avatar": "https://images.unsplash.com/photo-1507591064344-4c6ce005b128?w=40&h=40&fit=crop&crop=face" }
+        ],
+        "supervisor": "Mounir",
+        "progressPercentage": 80
+      },
+      {
+        "id": 4,
+        "task": "Home page updated",
+        "project": "P1:S2",
+        "interns": [
+          { "name": "Leila", "avatar": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?w=40&h=40&fit=crop&crop=face" },
+          { "name": "Hakim", "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=40&h=40&fit=crop&crop=face" },
+          { "name": "Dina", "avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=40&h=40&fit=crop&crop=face" },
+          { "name": "Tarek", "avatar": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=40&h=40&fit=crop&crop=face" },
+          { "name": "Mona", "avatar": "https://images.unsplash.com/photo-1485893086445-ed75865251e0?w=40&h=40&fit=crop&crop=face" }
+        ],
+        "supervisor": "Mounir",
+        "progressPercentage": 30
+      }
+    ],
+    "totalProjectsUpdated": 6
+  }

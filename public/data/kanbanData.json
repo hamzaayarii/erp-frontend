@@ -1,0 +1,225 @@
+[
+  {
+    "id": "todo",
+    "title": "To Do",
+    "count": 4,
+    "bgColor": "bg-[#64B5F6]",
+    "tasks": [
+      {
+        "id": "1",
+        "title": "Implement user authentication system",
+        "tags": ["development", "backend"],
+        "progress": 0,
+        "startDate": "Dec 1",
+        "dueDate": "Dec 12",
+        "assignedTo": [
+          { "firstName": "Lucas", "lastName": "Smith", "gender": "male" },
+          { "firstName": "John", "lastName": "Doe", "gender": "male" }
+        ],
+        "priority": "high",
+        "projectCodes": ["Pr-03", "DW09"]
+      },
+      {
+        "id": "2",
+        "title": "Fix responsive layout issues on mobile",
+        "tags": ["bug"],
+        "progress": 0,
+        "startDate": "Dec 3",
+        "dueDate": "Dec 12",
+        "assignedTo": [{ "firstName": "Sophie", "lastName": "Brown", "gender": "female" }],
+        "priority": "high",
+        "projectCodes": ["Pr-03", "DW09"]
+      },
+      {
+        "id": "3",
+        "title": "Add dark mode support",
+        "tags": ["feature"],
+        "progress": 0,
+        "startDate": "Dec 5",
+        "dueDate": "Dec 20",
+        "assignedTo": [{ "firstName": "Marie", "lastName": "Johnson", "gender": "female" }],
+        "priority": "medium",
+        "projectCodes": ["Pr-03", "DW09"]
+      },
+      {
+        "id": "4",
+        "title": "Create landing page design",
+        "tags": ["design"],
+        "progress": 0,
+        "startDate": "Dec 6",
+        "dueDate": "Dec 18",
+        "assignedTo": [
+          { "firstName": "Emma", "lastName": "Wilson", "gender": "female" },
+          { "firstName": "Sophie", "lastName": "Brown", "gender": "female" }
+        ],
+        "priority": "medium",
+        "projectCodes": ["Pr-03", "DW09"]
+      }
+    ]
+  },
+  {
+    "id": "progress",
+    "title": "In Progress",
+    "count": 3,
+    "bgColor": "bg-[#FFD54F]",
+    "tasks": [
+      {
+        "id": "5",
+        "title": "Optimize database queries for better performance",
+        "tags": ["performance", "backend"],
+        "progress": 75,
+        "startDate": "Nov 28",
+        "dueDate": "Dec 10",
+        "assignedTo": [
+          { "firstName": "Lucas", "lastName": "Smith", "gender": "male" },
+          { "firstName": "John", "lastName": "Doe", "gender": "male" }
+        ],
+        "priority": "high",
+        "projectCodes": ["Pr-03", "DW09"]
+      },
+      {
+        "id": "6",
+        "title": "Update API documentation",
+        "tags": ["documentation"],
+        "progress": 30,
+        "startDate": "Dec 1",
+        "dueDate": "Dec 14",
+        "assignedTo": [{ "firstName": "Marie", "lastName": "Johnson", "gender": "female" }],
+        "priority": "medium",
+        "projectCodes": ["Pr-03", "DW09"]
+      },
+      {
+        "id": "7",
+        "title": "Implement search functionality",
+        "tags": ["feature"],
+        "progress": 60,
+        "startDate": "Nov 30",
+        "dueDate": "Dec 15",
+        "assignedTo": [
+          { "firstName": "Pierre", "lastName": "Dupont", "gender": "male" },
+          { "firstName": "Emma", "lastName": "Wilson", "gender": "female" }
+        ],
+        "priority": "high",
+        "projectCodes": ["Pr-03", "DW09"]
+      }
+    ]
+  },
+  {
+    "id": "suspended",
+    "title": "Suspended",
+    "count": 1,
+    "bgColor": "bg-[#FFB74D]",
+    "tasks": [
+      {
+        "id": "8",
+        "title": "Integrate third-party payment gateway",
+        "tags": ["integration", "blocked"],
+        "progress": 75,
+        "startDate": "Nov 20",
+        "dueDate": "Dec 8",
+        "suspendedDate": "Dec 25",
+        "assignedTo": [{ "firstName": "Lucas", "lastName": "Smith", "gender": "male" }],
+        "priority": "high",
+        "projectCodes": ["Pr-03", "DW09"]
+      }
+    ]
+  },
+  {
+    "id": "reopened",
+    "title": "Reopened",
+    "count": 2,
+    "bgColor": "bg-[#BA68C8]",
+    "tasks": [
+      {
+        "id": "9",
+        "title": "Fix memory leak in data processing",
+        "tags": ["bug", "critical"],
+        "progress": 20,
+        "startDate": "Dec 3",
+        "dueDate": "Dec 12",
+        "restartDate": "Dec 8",
+        "assignedTo": [{ "firstName": "Alan", "lastName": "Turing", "gender": "male" }],
+        "priority": "high",
+        "projectCodes": ["Pr-03", "DW09"]
+      },
+      {
+        "id": "10",
+        "title": "Improve user interface responsiveness",
+        "tags": ["enhancement"],
+        "progress": 45,
+        "startDate": "Dec 2",
+        "dueDate": "Dec 15",
+        "restartDate": "Dec 10",
+        "assignedTo": [
+          { "firstName": "Sophie", "lastName": "Brown", "gender": "female" },
+          { "firstName": "Marie", "lastName": "Johnson", "gender": "female" }
+        ],
+        "priority": "medium",
+        "projectCodes": ["Pr-03", "DW09"]
+      }
+    ]
+  },
+  {
+    "id": "canceled",
+    "title": "Canceled",
+    "count": 1,
+    "bgColor": "bg-[#FFEBEE]",
+    "tasks": [
+      {
+        "id": "11",
+        "title": "Legacy system migration",
+        "tags": ["enhancement"],
+        "progress": 15,
+        "startDate": "Oct 15",
+        "dueDate": "Dec 30",
+        "assignedTo": [{ "firstName": "Pierre", "lastName": "Dupont", "gender": "male" }],
+        "priority": "low",
+        "projectCodes": ["Pr-03", "DW09"]
+      }
+    ]
+  },
+  {
+    "id": "done",
+    "title": "Done",
+    "count": 3,
+    "bgColor": "bg-[#81C784]",
+    "tasks": [
+      {
+        "id": "12",
+        "title": "Set up CI/CD pipeline",
+        "tags": ["devops"],
+        "progress": 100,
+        "startDate": "Nov 28",
+        "dueDate": "Dec 5",
+        "assignedTo": [{ "firstName": "Lucas", "lastName": "Smith", "gender": "male" }],
+        "priority": "high",
+        "projectCodes": ["Pr-03", "DW09"]
+      },
+      {
+        "id": "13",
+        "title": "Create user onboarding flow",
+        "tags": ["ux"],
+        "progress": 100,
+        "startDate": "Nov 25",
+        "dueDate": "Dec 8",
+        "assignedTo": [{ "firstName": "Emily", "lastName": "Davis", "gender": "female" }],
+        "priority": "medium",
+        "projectCodes": ["Pr-03", "DW09"]
+      },
+      {
+        "id": "14",
+        "title": "Implement email notifications",
+        "tags": ["feature"],
+        "progress": 100,
+        "startDate": "Nov 20",
+        "dueDate": "Dec 3",
+        "assignedTo": [
+          { "firstName": "Marie", "lastName": "Johnson", "gender": "female" },
+          { "firstName": "John", "lastName": "Doe", "gender": "male" }
+        ],
+        "priority": "medium",
+        "projectCodes": ["Pr-03", "DW09"]
+      }
+    ]
+  }
+]

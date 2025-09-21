@@ -1,0 +1,184 @@
+{
+  "projects": [
+    {
+      "id": "P1",
+      "project": "Chakra Soft UI Version",
+      "members": [
+        { "name": "EB", "gender": "female" },
+        { "name": "SL", "gender": "female" },
+        { "name": "EB", "gender": "female" }
+      ],
+      "progress": 60,
+      "status": "In Progress",
+      "estimatedStartDate": "12 Jan, 2024",
+      "startDate": "15 Jan, 2024",
+      "endDate": "10 Mar, 2024",
+      "estimatedEndDate": "12 Mar, 2024",
+      "estimatedDuration": "2 months",
+      "actualDuration": "1 month 25 days",
+      "estimatedBudget": "1500 DT",
+      "budget": "1400 DT",
+      "domain": ["web", "mobile"]
+    },
+    {
+      "id": "P2",
+      "project": "Chakra Soft UI Version",
+      "members": [
+        { "name": "MA", "gender": "male" },
+        { "name": "KM", "gender": "male" },
+        { "name": "MA", "gender": "male" }
+      ],
+      "progress": 45,
+      "status": "In Progress",
+      "estimatedStartDate": "05 Mar, 2024",
+      "startDate": "10 Mar, 2024",
+      "endDate": "25 May, 2024",
+      "estimatedEndDate": "30 May, 2024",
+      "estimatedDuration": "3 months",
+      "actualDuration": "2 months 15 days",
+      "estimatedBudget": "1600 DT",
+      "budget": "1400 DT",
+      "domain": ["web", "mobile"]
+    },
+    {
+      "id": "P3",
+      "project": "Chakra Soft UI Version",
+      "members": [
+        { "name": "EB", "gender": "female" },
+        { "name": "SL", "gender": "female" },
+        { "name": "EB", "gender": "female" }
+      ],
+      "progress": 0,
+      "status": "Not Started",
+      "estimatedStartDate": "01 Jul, 2024",
+      "startDate": "—",
+      "endDate": "—",
+      "estimatedEndDate": "30 Sep, 2024",
+      "estimatedDuration": "3 months",
+      "actualDuration": "—",
+      "estimatedBudget": "1300 DT",
+      "budget": "1400 DT",
+      "domain": ["web", "mobile"]
+    },
+    {
+      "id": "P4",
+      "project": "Chakra Soft UI Version",
+      "members": [
+        { "name": "EB", "gender": "female" },
+        { "name": "SL", "gender": "female" },
+        { "name": "EB", "gender": "female" }
+      ],
+      "progress": 60,
+      "status": "Suspended",
+      "estimatedStartDate": "15 Feb, 2024",
+      "startDate": "20 Feb, 2024",
+      "endDate": "05 Apr, 2024",
+      "estimatedEndDate": "10 Apr, 2024",
+      "estimatedDuration": "2 months",
+      "actualDuration": "1.5 months",
+      "estimatedBudget": "1700 DT",
+      "budget": "1400 DT",
+      "domain": ["web", "mobile"]
+    },
+    {
+      "id": "P5",
+      "project": "Chakra Soft UI Version",
+      "members": [
+        { "name": "JT", "gender": "male" },
+        { "name": "OY", "gender": "male" },
+        { "name": "JT", "gender": "male" }
+      ],
+      "progress": 60,
+      "status": "Suspended",
+      "estimatedStartDate": "10 Apr, 2024",
+      "startDate": "15 Apr, 2024",
+      "endDate": "01 Jul, 2024",
+      "estimatedEndDate": "05 Jul, 2024",
+      "estimatedDuration": "3 months",
+      "actualDuration": "2.5 months",
+      "estimatedBudget": "1800 DT",
+      "budget": "1400 DT",
+      "domain": ["web", "mobile"]
+    },
+    {
+      "id": "P6",
+      "project": "Chakra Soft UI Version",
+      "members": [
+        { "name": "EB", "gender": "female" },
+        { "name": "SL", "gender": "female" },
+        { "name": "EB", "gender": "female" }
+      ],
+      "progress": 100,
+      "status": "Finished",
+      "estimatedStartDate": "05 Jan, 2024",
+      "startDate": "07 Jan, 2024",
+      "endDate": "15 Feb, 2024",
+      "estimatedEndDate": "20 Feb, 2024",
+      "estimatedDuration": "1.5 months",
+      "actualDuration": "1 month 8 days",
+      "estimatedBudget": "1200 DT",
+      "budget": "1400 DT",
+      "domain": ["web", "mobile"]
+    },
+    {
+      "id": "P7",
+      "project": "Chakra Soft UI Version",
+      "members": [
+        { "name": "MA", "gender": "male" },
+        { "name": "KM", "gender": "male" },
+        { "name": "MA", "gender": "male" }
+      ],
+      "progress": 100,
+      "status": "Finished",
+      "estimatedStartDate": "20 May, 2024",
+      "startDate": "25 May, 2024",
+      "endDate": "10 Aug, 2024",
+      "estimatedEndDate": "12 Aug, 2024",
+      "estimatedDuration": "2.5 months",
+      "actualDuration": "2 months 15 days",
+      "estimatedBudget": "1900 DT",
+      "budget": "1400 DT",
+      "domain": ["web", "mobile"]
+    },
+    {
+      "id": "P8",
+      "project": "Chakra Soft UI Version",
+      "members": [
+        { "name": "EB", "gender": "female" },
+        { "name": "SL", "gender": "female" },
+        { "name": "EB", "gender": "female" }
+      ],
+      "progress": 60,
+      "status": "Cancelled",
+      "estimatedStartDate": "01 Sep, 2024",
+      "startDate": "03 Sep, 2024",
+      "endDate": "10 Oct, 2024",
+      "estimatedEndDate": "15 Oct, 2024",
+      "estimatedDuration": "1.5 months",
+      "actualDuration": "1 month",
+      "estimatedBudget": "1100 DT",
+      "budget": "1400 DT",
+      "domain": ["web", "mobile"]
+    },
+    {
+      "id": "P9",
+      "project": "Chakra Soft UI Version",
+      "members": [
+        { "name": "JT", "gender": "male" },
+        { "name": "OY", "gender": "male" },
+        { "name": "JT", "gender": "male" }
+      ],
+      "progress": 40,
+      "status": "Cancelled",
+      "estimatedStartDate": "15 Nov, 2024",
+      "startDate": "20 Nov, 2024",
+      "endDate": "15 Jan, 2025",
+      "estimatedEndDate": "20 Jan, 2025",
+      "estimatedDuration": "2 months",
+      "actualDuration": "1 month 25 days",
+      "estimatedBudget": "2000 DT",
+      "budget": "1400 DT",
+      "domain": ["web", "mobile"]
+    }
+  ]
+}

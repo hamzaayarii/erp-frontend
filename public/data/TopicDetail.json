@@ -1,0 +1,227 @@
+[
+  {
+    "id": "T-01",
+    "topic": "Frontend Redesign",
+    "project": "ERP System",
+    "description": "Complete redesign of the frontend interface to improve user experience and modernize the visual design. This includes updating the component library, implementing responsive design patterns, and optimizing performance across all devices.",
+    "members": [
+      { 
+        "initials": "AM", 
+        "gender": "male",
+        "name": "Alex Martinez",
+        "role": "Frontend Developer",
+        "email": "alex.martinez@company.com"
+      },
+      { 
+        "initials": "BW", 
+        "gender": "female",
+        "name": "Beth Wilson",
+        "role": "UI/UX Designer", 
+        "email": "beth.wilson@company.com"
+      }
+    ],
+    "status": "In Progress",
+    "progress": 75,
+    "estimatedStartDate": "07 Nov, 2023",
+    "startDate": "07 Nov, 2023",
+    "endDate": "-",
+    "estimatedEndDate": "07 Dec, 2023",
+    "estimatedDuration": "1 month",
+    "actualDuration": "25 days",
+    "CRITICAL": "CRIT",
+    "estimatedBudget": "$15,000",
+    "budget": "$12,500",
+    "domain": ["Web Development", "UI/UX Design"],
+    "industries": ["Web", "Security"],
+    "technologies": ["React", "TypeScript", "Tailwind CSS", "Figma"],
+    "softSkills": ["Communication", "Problem Solving", "Creativity"],
+    "firstImpression": ["Modern Design", "User-Friendly", "Responsive"],
+    "milestones": [
+      {
+        "name": "Design System Creation",
+        "status": "Completed",
+        "completedDate": "15 Nov, 2023"
+      },
+      {
+        "name": "Component Library Development",
+        "status": "In Progress",
+        "expectedDate": "25 Nov, 2023"
+      },
+      {
+        "name": "Responsive Implementation",
+        "status": "Pending",
+        "expectedDate": "05 Dec, 2023"
+      }
+    ],
+    "tasks": [
+      {
+        "id": "T-01-001",
+        "name": "Create wireframes",
+        "status": "Completed",
+        "assignee": "BW"
+      },
+      {
+        "id": "T-01-002", 
+        "name": "Implement header component",
+        "status": "In Progress",
+        "assignee": "AM"
+      },
+      {
+        "id": "T-01-003",
+        "name": "Mobile optimization",
+        "status": "Pending",
+        "assignee": "AM"
+      }
+    ]
+  },
+  {
+    "id": "T-02",
+    "topic": "API Integration",
+    "project": "ERP System",
+    "description": "Integration of third-party APIs and internal microservices to create a unified data layer. This includes authentication, data synchronization, error handling, and performance optimization for all API endpoints.",
+    "members": [
+      { 
+        "initials": "CD", 
+        "gender": "male",
+        "name": "Carlos Diaz",
+        "role": "Backend Developer",
+        "email": "carlos.diaz@company.com"
+      },
+      { 
+        "initials": "EF", 
+        "gender": "female",
+        "name": "Emma Foster",
+        "role": "API Architect",
+        "email": "emma.foster@company.com"
+      },
+      { 
+        "initials": "GH", 
+        "gender": "male",
+        "name": "George Harris",
+        "role": "DevOps Engineer",
+        "email": "george.harris@company.com"
+      }
+    ],
+    "status": "Completed",
+    "progress": 100,
+    "estimatedStartDate": "15 Oct, 2023",
+    "startDate": "15 Oct, 2023",
+    "endDate": "28 Nov, 2023",
+    "estimatedEndDate": "30 Nov, 2023",
+    "estimatedDuration": "1.5 months",
+    "actualDuration": "1.4 months",
+    "CRITICAL": "CRIT",
+    "estimatedBudget": "$25,000",
+    "budget": "$24,800",
+    "domain": ["Backend Development", "API Design"],
+    "industries": ["Web", "Security"],
+    "technologies": ["Node.js", "Express", "MongoDB", "Redis", "Docker"],
+    "softSkills": ["Analytical Thinking", "Attention to Detail", "Collaboration"],
+    "firstImpression": ["Robust Architecture", "Scalable", "Well-Documented"],
+    "milestones": [
+      {
+        "name": "API Design & Documentation",
+        "status": "Completed",
+        "completedDate": "25 Oct, 2023"
+      },
+      {
+        "name": "Core Integration Development",
+        "status": "Completed",
+        "completedDate": "15 Nov, 2023"
+      },
+      {
+        "name": "Testing & Deployment",
+        "status": "Completed",
+        "completedDate": "28 Nov, 2023"
+      }
+    ],
+    "tasks": [
+      {
+        "id": "T-02-001",
+        "name": "Design API endpoints",
+        "status": "Completed",
+        "assignee": "EF"
+      },
+      {
+        "id": "T-02-002",
+        "name": "Implement authentication layer",
+        "status": "Completed",
+        "assignee": "CD"
+      },
+      {
+        "id": "T-02-003",
+        "name": "Setup monitoring and logging",
+        "status": "Completed",
+        "assignee": "GH"
+      }
+    ]
+  },
+  {
+    "id": "T-03",
+    "topic": "Database Migration",
+    "project": "ERP System",
+    "description": "Migration of legacy database systems to modern cloud-based solutions with improved performance, scalability, and security. Includes data validation, backup strategies, and minimal downtime deployment.",
+    "members": [
+      { 
+        "initials": "IJ", 
+        "gender": "female",
+        "name": "Isabella Johnson",
+        "role": "Database Administrator",
+        "email": "isabella.johnson@company.com"
+      }
+    ],
+    "status": "Not Started",
+    "progress": 0,
+    "estimatedStartDate": "01 Dec, 2023",
+    "startDate": "-",
+    "endDate": "-",
+    "estimatedEndDate": "20 Dec, 2023",
+    "estimatedDuration": "3 weeks",
+    "actualDuration": "-",
+    "CRITICAL": "-",
+    "estimatedBudget": "$18,000",
+    "budget": "",
+    "domain": ["Database Management", "Cloud Migration"],
+    "industries": ["Web", "Security"],
+    "technologies": ["PostgreSQL", "AWS RDS", "MongoDB", "Redis"],
+    "softSkills": ["Risk Management", "Planning", "Technical Documentation"],
+    "firstImpression": ["Critical Infrastructure", "High Stakes", "Requires Precision"],
+    "milestones": [
+      {
+        "name": "Migration Strategy Planning",
+        "status": "Pending",
+        "expectedDate": "05 Dec, 2023"
+      },
+      {
+        "name": "Data Backup & Validation",
+        "status": "Pending", 
+        "expectedDate": "12 Dec, 2023"
+      },
+      {
+        "name": "Live Migration Execution",
+        "status": "Pending",
+        "expectedDate": "18 Dec, 2023"
+      }
+    ],
+    "tasks": [
+      {
+        "id": "T-03-001",
+        "name": "Analyze current database schema",
+        "status": "Pending",
+        "assignee": "IJ"
+      },
+      {
+        "id": "T-03-002",
+        "name": "Create migration scripts",
+        "status": "Pending",
+        "assignee": "IJ"
+      },
+      {
+        "id": "T-03-003",
+        "name": "Execute migration with rollback plan",
+        "status": "Pending",
+        "assignee": "IJ"
+      }
+    ]
+  }
+]

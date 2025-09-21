@@ -1,0 +1,92 @@
+{
+  "staff": [
+    {
+      "id": "728ed52f",
+      "fullName": "Dr. Sarah Johnson",
+      "topicId": "WEB001",
+      "availabilityDate": "15/01/2024",
+      "duration": "6 months",
+      "mustEndDate": "15/07/2024",
+      "status": "Accepted",
+      "applicationDate": "10/01/2024",
+      "applicationForm": "staff/dr-sarah-johnson"
+    },
+    {
+      "id": "829fg63g",
+      "fullName": "Prof. Michael Brown",
+      "topicId": "ML002",
+      "availabilityDate": "20/12/2023",
+      "duration": "8 months",
+      "mustEndDate": "20/08/2024",
+      "status": "Accepted",
+      "applicationDate": "15/12/2023",
+      "applicationForm": "staff/prof-michael-brown"
+    },
+    {
+      "id": "930hj74h",
+      "fullName": "Dr. Lisa Chen",
+      "topicId": "MOB003",
+      "availabilityDate": "05/02/2024",
+      "duration": "4 months",
+      "mustEndDate": "05/06/2024",
+      "status": "Pending",
+      "applicationDate": "01/02/2024",
+      "applicationForm": "staff/dr-lisa-chen"
+    },
+    {
+      "id": "041ik85i",
+      "fullName": "Dr. James Taylor",
+      "topicId": "DATA004",
+      "availabilityDate": "12/01/2024",
+      "duration": "7 months",
+      "mustEndDate": "12/08/2024",
+      "status": "Accepted",
+      "applicationDate": "08/01/2024",
+      "applicationForm": "staff/dr-james-taylor"
+    },
+    {
+      "id": "152jl96j",
+      "fullName": "Prof. Anna White",
+      "topicId": "CLOUD005",
+      "availabilityDate": "28/11/2023",
+      "duration": "5 months",
+      "mustEndDate": "28/04/2024",
+      "status": "Rejected",
+      "applicationDate": "25/11/2023",
+      "applicationForm": "staff/prof-anna-white"
+    },
+    {
+      "id": "263km07k",
+      "fullName": "Dr. Robert Kim",
+      "topicId": "UX006",
+      "availabilityDate": "08/02/2024",
+      "duration": "3 months",
+      "mustEndDate": "08/05/2024",
+      "status": "Affected",
+      "applicationDate": "05/02/2024",
+      "applicationForm": "staff/dr-robert-kim"
+    },
+    {
+      "id": "374ln18l",
+      "fullName": "Prof. Jennifer Liu",
+      "topicId": "SEC007",
+      "availabilityDate": "25/01/2024",
+      "duration": "6 months",
+      "mustEndDate": "25/07/2024",
+      "status": "Banned",
+      "applicationDate": "22/01/2024",
+      "applicationForm": "staff/prof-jennifer-liu"
+    },
+    {
+      "id": "485mo29m",
+      "fullName": "Dr. Mark Davis",
+      "topicId": "BLOCK008",
+      "availabilityDate": "10/12/2023",
+      "duration": "9 months",
+      "mustEndDate": "10/09/2024",
+      "status": "Finished",
+      "applicationDate": "05/12/2023",
+      "applicationForm": "staff/dr-mark-davis"
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "topics": [
+    {
+      "id": "T-01",
+      "topic": "Frontend Redesign", 
+      "project": "ERP System",
+      "members": [
+        { "initials": "AM", "gender": "male" }, 
+        { "initials": "BW", "gender": "female" }
+      ],
+      "status": "In Progress",
+      "progress": 75,
+      "estimatedStartDate": "07 Nov, 2023",
+      "startDate": "07 Nov, 2023",
+      "endDate": "-",
+      "estimatedEndDate": "07 Dec, 2023",
+      "estimatedDuration": "1 month",
+      "actualDuration": "25 days",
+      "CRITICAL": "CRIT",
+      "estimatedBudget": "$15,000",
+      "budget": "$12,500",
+      "domain": ["Web Development", "UI/UX Design"]
+    },
+    {
+      "id": "T-02",
+      "topic": "API Integration",
+      "project": "ERP System",
+      "members": [
+        { "initials": "CD", "gender": "male" },
+        { "initials": "EF", "gender": "female" },
+        { "initials": "GH", "gender": "male" }
+      ],
+      "status": "Completed",
+      "progress": 100,
+      "estimatedStartDate": "15 Oct, 2023",
+      "startDate": "15 Oct, 2023",
+      "endDate": "28 Nov, 2023",
+      "estimatedEndDate": "30 Nov, 2023",
+      "estimatedDuration": "1.5 months",
+      "actualDuration": "1.4 months",
+      "CRITICAL": "CRIT",
+      "estimatedBudget": "$25,000",
+      "budget": "$24,800",
+      "domain": ["Backend Development", "API Design"]
+    },
+    {
+      "id": "T-03",
+      "topic": "Database Migration",
+      "project": "ERP System",
+      "members": [
+        { "initials": "IJ", "gender": "female" }
+      ],
+      "status": "Not Started",
+      "progress": 0,
+      "estimatedStartDate": "01 Dec, 2023",
+      "startDate": "-",
+      "endDate": "-",
+      "estimatedEndDate": "20 Dec, 2023",
+      "estimatedDuration": "3 weeks",
+      "actualDuration": "-",
+      "CRITICAL": "-",
+      "estimatedBudget": "$18,000",
+      "budget": "",
+      "domain": ["Database Management", "Cloud Migration"]
+    },
+    {
+      "id": "T-04",
+      "topic": "Security Audit",
+      "project": "ERP System",
+      "members": [
+        { "initials": "KL", "gender": "male" },
+        { "initials": "MN", "gender": "female" }
+      ],
+      "status": "In Progress",
+      "progress": 45,
+      "estimatedStartDate": "20 Nov, 2023",
+      "startDate": "20 Nov, 2023",
+      "estimatedEndDate": "10 Jan, 2024",
+      "estimatedDuration": "1.5 months",
+      "actualDuration": "1.3 months",
+      "CRITICAL": "AUX",
+      "estimatedBudget": "$30,000",
+      "budget": "$28,500",
+      "domain": ["Security", "Compliance"]
+    },
+    {
+      "id": "T-05",
+      "topic": "Mobile App Testing",
+      "project": "ERP System",
+      "members": [
+        { "initials": "OP", "gender": "male" }
+      ],
+      "status": "Suspended",
+      "progress": 20,
+      "estimatedStartDate": "10 Nov, 2023",
+      "startDate": "10 Nov, 2023",
+      "estimatedEndDate": "30 Nov, 2023",
+      "estimatedDuration": "3 weeks",
+      "actualDuration": "2 weeks",
+      "CRITICAL": "CRIT",
+      "estimatedBudget": "$12,000",
+      "budget": "$8,000",
+      "domain": ["Mobile Development", "Quality Assurance"]
+    },
+    {
+      "id": "T-06",
+      "topic": "Performance Optimization",
+      "project": "ERP System",
+      "members": [
+        { "initials": "QR", "gender": "female" },
+        { "initials": "ST", "gender": "male" }
+      ],
+      "status": "Cancelled",
+      "progress": 30,
+      "estimatedStartDate": "05 Nov, 2023",
+      "startDate": "05 Nov, 2023",
+      "estimatedEndDate": "20 Nov, 2023",
+      "estimatedDuration": "1200 DT",
+      "actualDuration": "400 DT",
+      "CRITICAL": "-",
+      "estimatedBudget": "$20,000",
+      "budget": "$6,000",
+      "domain": ["web", "performance"]
+    },
+    {
+      "id": "T-07",
+      "topic": "User Authentication System",
+      "project": "ERP System",
+      "members": [
+        { "initials": "UV", "gender": "male" },
+        { "initials": "WX", "gender": "female" },
+        { "initials": "YZ", "gender": "male" }
+      ],
+      "status": "Completed",
+      "progress": 100,
+      "estimatedStartDate": "01 Oct, 2023",
+      "startDate": "01 Oct, 2023",
+      "estimatedEndDate": "02 Nov, 2023",
+      "estimatedDuration": "2200 DT",
+      "actualDuration": "2180 DT",
+      "CRITICAL": "CRIT",
+      "estimatedBudget": "$35,000",
+      "budget": "$34,500",
+      "domain": ["web", "security"]
+    },
+    {
+      "id": "T-08",
+      "topic": "Data Analytics Dashboard",
+      "project": "ERP System",
+      "members": [
+        { "initials": "AB", "gender": "female" }
+      ],
+      "status": "In Progress",
+      "progress": 60,
+      "estimatedStartDate": "15 Nov, 2023",
+      "startDate": "15 Nov, 2023",
+      "estimatedEndDate": "15 Jan, 2024",
+      "estimatedDuration": "1800 DT",
+      "actualDuration": "1100 DT",
+      "CRITICAL": "-",
+      "estimatedBudget": "$28,000",
+      "budget": "$18,000",
+      "domain": ["web", "analytics"]
+    },
+    {
+      "id": "T-09",
+      "topic": "Cloud Infrastructure Setup",
+      "project": "ERP System",
+      "members": [
+        { "initials": "CD", "gender": "male" },
+        { "initials": "EF", "gender": "male" }
+      ],
+      "status": "Not Started",
+      "progress": 0,
+      "estimatedStartDate": "20 Dec, 2023",
+      "startDate": "20 Dec, 2023",
+      "estimatedEndDate": "20 Jan, 2024",
+      "estimatedDuration": "1500 DT",
+      "actualDuration": "1500 DT",
+      "CRITICAL": "AUX",
+      "estimatedBudget": "$22,000",
+      "budget": "",
+      "domain": ["cloud", "infrastructure"]
+    },
+    {
+      "id": "T-10",
+      "topic": "Legacy System Migration",
+      "project": "ERP System",
+      "members": [
+        { "initials": "GH", "gender": "female" },
+        { "initials": "IJ", "gender": "male" },
+        { "initials": "KL", "gender": "female" }
+      ],
+      "status": "Cancelled",
+      "progress": 15,
+      "estimatedStartDate": "25 Oct, 2023",
+      "startDate": "25 Oct, 2023",
+      "estimatedEndDate": "30 Nov, 2023",
+      "estimatedDuration": "2500 DT",
+      "actualDuration": "375 DT",
+      "CRITICAL": "CRIT",
+      "estimatedBudget": "$45,000",
+      "budget": "$8,000",
+      "domain": ["legacy", "migration"]
+    }
+  ]
+}

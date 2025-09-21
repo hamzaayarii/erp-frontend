@@ -1,0 +1,157 @@
+{
+  "products": [
+    {
+      "id": "P1",
+      "product": "Chakra Soft UI Version",
+      "members": [
+        { "name": "AM", "gender": "female" },
+        { "name": "JD", "gender": "male" },
+        { "name": "SK", "gender": "female" }
+      ],
+      "status": "In Progress",
+      "progress": 80,
+      "subProducts": "DW09",
+      "subProjects": "Pr-03",
+      "estimatedStartDate": "2024-01-15",
+      "startDate": "2024-01-20",
+      "estimatedEndDate": "2024-06-15",
+      "endDate": "2024-06-20",
+      "estimatedDuration": "5 months",
+      "actualDuration": "5.2 months",
+      "estimatedBudget": "$45,000",
+      "budget": "$47,500",
+      "domain": ["Frontend", "UI/UX"]
+    },
+    {
+      "id": "P2",
+      "product": "Chakra Soft UI Version",
+      "members": [
+        { "name": "BL", "gender": "male" },
+        { "name": "MK", "gender": "male" },
+        { "name": "TW", "gender": "male" }
+      ],
+      "status": "In Progress",
+      "progress": 45,
+      "subProducts": "DW09",
+      "subProjects": "Pr-03",
+      "estimatedStartDate": "2024-02-01",
+      "startDate": "2024-02-05",
+      "estimatedEndDate": "2024-07-01",
+      "endDate": "2024-07-10",
+      "estimatedDuration": "5 months",
+      "actualDuration": "5.2 months",
+      "estimatedBudget": "$52,000",
+      "budget": "$54,200",
+      "domain": ["Backend", "API"]
+    },
+    {
+      "id": "P3",
+      "product": "Chakra Soft UI Version",
+      "members": [
+        { "name": "LM", "gender": "female" },
+        { "name": "RJ", "gender": "male" },
+        { "name": "NK", "gender": "female" }
+      ],
+      "status": "Not Started",
+      "progress": 0,
+      "subProducts": "DW09",
+      "subProjects": "Pr-03",
+      "estimatedStartDate": "2024-03-01",
+      "startDate": "2024-03-01",
+      "estimatedEndDate": "2024-08-01",
+      "endDate": "2024-08-01",
+      "estimatedDuration": "5 months",
+      "actualDuration": "5 months",
+      "estimatedBudget": "$38,000",
+      "budget": "$38,000",
+      "domain": ["Testing", "QA"]
+    },
+    {
+      "id": "P4",
+      "product": "Chakra Soft UI Version",
+      "members": [
+        { "name": "DH", "gender": "male" },
+        { "name": "SL", "gender": "male" },
+        { "name": "VK", "gender": "female" }
+      ],
+      "status": "Suspended",
+      "progress": 60,
+      "subProducts": "DW09",
+      "subProjects": "Pr-03",
+      "estimatedStartDate": "2024-01-10",
+      "startDate": "2024-01-15",
+      "estimatedEndDate": "2024-06-10",
+      "endDate": "2024-06-15",
+      "estimatedDuration": "5 months",
+      "actualDuration": "5.2 months",
+      "estimatedBudget": "$41,000",
+      "budget": "$42,800",
+      "domain": ["DevOps", "Infrastructure"]
+    },
+    {
+      "id": "P5",
+      "product": "Chakra Soft UI Version",
+      "members": [
+        { "name": "JL", "gender": "male" },
+        { "name": "MW", "gender": "male" },
+        { "name": "AK", "gender": "female" }
+      ],
+      "status": "Suspended",
+      "progress": 60,
+      "subProducts": "DW09",
+      "subProjects": "Pr-03",
+      "estimatedStartDate": "2024-02-15",
+      "startDate": "2024-02-20",
+      "estimatedEndDate": "2024-07-15",
+      "endDate": "2024-07-20",
+      "estimatedDuration": "5 months",
+      "actualDuration": "5.2 months",
+      "estimatedBudget": "$49,000",
+      "budget": "$51,200",
+      "domain": ["Mobile", "React Native"]
+    },
+    {
+      "id": "P6",
+      "product": "Analytics Dashboard Pro",
+      "members": [
+        { "name": "RT", "gender": "male" },
+        { "name": "KS", "gender": "female" }
+      ],
+      "status": "Finished",
+      "progress": 100,
+      "subProducts": "AD12",
+      "subProjects": "Pr-07",
+      "estimatedStartDate": "2023-09-01",
+      "startDate": "2023-09-05",
+      "estimatedEndDate": "2024-02-01",
+      "endDate": "2024-01-28",
+      "estimatedDuration": "5 months",
+      "actualDuration": "4.8 months",
+      "estimatedBudget": "$65,000",
+      "budget": "$62,500",
+      "domain": ["Analytics", "Data Visualization"]
+    },
+    {
+      "id": "P7",
+      "product": "E-Commerce Platform",
+      "members": [
+        { "name": "PL", "gender": "male" },
+        { "name": "HM", "gender": "female" },
+        { "name": "GK", "gender": "male" }
+      ],
+      "status": "Cancelled",
+      "progress": 25,
+      "subProducts": "EC15",
+      "subProjects": "Pr-11",
+      "estimatedStartDate": "2023-10-01",
+      "startDate": "2023-10-05",
+      "estimatedEndDate": "2024-03-01",
+      "endDate": "2024-01-15",
+      "estimatedDuration": "5 months",
+      "actualDuration": "3.3 months",
+      "estimatedBudget": "$75,000",
+      "budget": "$25,000",
+      "domain": ["E-Commerce", "Payment Systems"]
+    }
+  ]
+}
